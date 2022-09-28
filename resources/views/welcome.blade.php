@@ -97,93 +97,22 @@
                                     <span>Home</span>
                                 </a>
                             </li>
-                            <li class="has-child">
-                                <a href="about.html" class="link-underline link-underline-1">
-                                    <span>About</span>
-                                </a>
-                                <div class="child">
-                                    <ul>
-                                        <li>
-                                            <a href="about.html" class="link-underline">
-                                                <span>About</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="privacy-policy.html" class="link-underline">
-                                                <span>Privacy Policy</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="has-child">
-                                <a href="features-1.html" class="link-underline link-underline-1">
+                            <li>
+                                <a href="index.html" class="link-underline link-underline-1">
                                     <span>Features</span>
                                 </a>
-                                <div class="child">
-                                    <ul>
-                                        <li>
-                                            <a href="features-1.html" class="link-underline">
-                                                <span>Features Style 1</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="features-2.html" class="link-underline">
-                                                <span>Features Style 2</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="feature-detail-1.html" class="link-underline">
-                                                <span>Feature Detail 1</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="feature-detail-2.html" class="link-underline">
-                                                <span>Feature Detail 2</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="has-child">
-                                <a href="blog-1.html" class="link-underline link-underline-1">
-                                    <span>Blog</span>
-                                </a>
-                                <div class="child">
-                                    <ul>
-                                        <li>
-                                            <a href="blog-1.html" class="link-underline">
-                                                <span>Blog Style 1</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-2.html" class="link-underline">
-                                                <span>Blog Style 2</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-detail-1.html" class="link-underline">
-                                                <span>Blog Detail Style 1</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-detail-2.html" class="link-underline">
-                                                <span>Blog Detail Style 2</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
                             </li>
                             <li>
-                                <a href="pricing.html" class="link-underline link-underline-1">
-                                    <span>Pricing</span>
+                                <a href="index.html" class="link-underline link-underline-1">
+                                    <span>Tutorial</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html" class="link-underline link-underline-1">
+                                <a href="index.html" class="link-underline link-underline-1">
                                     <span>Contact</span>
                                 </a>
                             </li>
+                            
                         </ul>
                         <div class="social">
                             <h6>Follow</h6>
@@ -285,7 +214,7 @@
                                 <h5>app features</h5>
                             </div>
                             <div class="main-heading c-dark">
-                                <h1>Get surprised by amazing features.</h1>
+                                <h1>Integrated <br>with Speaker System</h1><br>
                             </div>
                             <img src="assets/images/alat-braitech2.png" alt="artwork">
                         </div>
@@ -296,12 +225,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-comments"></i>
+                                    1
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Easy to Use</h3>
+                                    <h3 class="c-dark">Tombol Ketik</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk mengetik huruf sesuai dengan atura pada mesin ketik Brailee.</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -313,12 +242,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-headset"></i>
+                                    2
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Made for Everyone</h3>
+                                    <h3 class="c-dark">Tombol Power</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk menghidupkan atau menyalakan alat.</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -330,12 +259,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-photo-video"></i>
+                                    3
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Share Everything</h3>
+                                    <h3 class="c-dark">Tombol Download File</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk mengunduh hasil ketikan dalam format PDF.</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -347,12 +276,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-server"></i>
+                                    4
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Unlimited Storage</h3>
+                                    <h3 class="c-dark">Tombol Enter</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk membuat baris baru</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -364,12 +293,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-user-lock"></i>
+                                    5
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Data Protection</h3>
+                                    <h3 class="c-dark">Tombol Spasi</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk memberikan jarak antar kata.</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -381,12 +310,12 @@
                         <div class="app-feature-single app-feature-single-2">
                             <div class="app-feature-single-wrapper">
                                 <a href="feature-detail-1.html" class="icon">
-                                    <i class="las la-map-marked-alt"></i>
+                                    6
                                 </a>
                                 <a href="feature-detail-1.html">
-                                    <h3 class="c-dark">Use from Anywhere</h3>
+                                    <h3 class="c-dark">Tombol Hapus</h3>
                                 </a>
-                                <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle they wherein lights greater concern open days tree is brought.</p>
+                                <p class="c-grey">Tombol ini digunakan untuk menghapus huruf yang salah.</p>
                             </div>
                             <a href="feature-detail-1.html" class="circle">
                                 <i class="las la-plus"></i>
@@ -402,7 +331,70 @@
     app features wide section - end
     -->
 
+
+
     <!--
+    feature section - start
+    -->
+    <div class="feature-section feature-section-0 feature-section-spacing-1">
+        <div class="feature-section-wrapper">
+            <div class="container">
+                <div class="row gx-5">
+                    <div class="col-lg-7 offset-lg-0 order-lg-1 col-md-8 offset-md-2 col-10 offset-1 order-2">
+                        <div class="feature-section-content">
+                            <div class="section-heading">
+                                <div class="sub-heading c-blue upper ls-1">
+                                    <i class="las la-cog"></i>
+                                    <h5>app features</h5>
+                                </div>
+                                <div class="main-heading c-dark">
+                                    <h1>Integrated <br>with Website</h1>
+                                </div>
+                            </div>
+                            <div class="icon-text-group">
+                                <div class="icon-text">
+                                    <i class="las la-file"></i>
+                                    <h4 class="c-dark">Unduh File PDF</h4>
+                                    <p class="c-grey">File hasil ketik dapat diunduh menjadi format PDF</p>
+                                </div>
+                                <div class="icon-text">
+                                    <i class="las la-volume-up"></i>
+                                    <h4 class="c-dark">Teks ke Suara</h4>
+                                    <p class="c-grey">Hasil yang sudah diketik dapat dibunyikan menjadi suara</p>
+                                </div>
+                            </div>
+                            <div class="icon-text-group">
+                                <div class="icon-text">
+                                    <i class="las la-history"></i>
+                                    <h4 class="c-dark">Histori</h4>
+                                    <p class="c-grey">Hasil ketik sebelumnya akan tersimpan dan dapat diunduh kembali.</p>
+                                </div>
+                                <div class="icon-text">
+                                    <i class="las la-question-circle"></i>
+                                    <h4 class="c-dark">FAQ</h4>
+                                    <p class="c-grey">Membantu menjawab pertanyaan user terkait penggunaan alat/wesbite</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 offset-lg-0 order-lg-2 col-10 offset-1 order-1">
+                        <div class="feature-section-image">
+                            <img src="assets/images/feature-section-1-phone.png" class="phone" alt="phone">
+                            <div class="background-pattern background-pattern-radius">
+                                <div class="background-pattern-img background-loop" style="background-image: url(assets/images/patterns/pattern.jpg);"></div>
+                                <div class="background-pattern-gradient"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--
+    feature section - end
+    -->
+
+        <!--
     video section - start
     -->
     <div class="video-section">
@@ -417,22 +409,15 @@
                                     <h5>our video</h5>
                                 </div>
                                 <div class="main-heading">
-                                    <h1>Orions is a fast and secure app that was built for both Android and iOS platforms.</h1>
+                                    <h1>How To Use BraiTech Mechine and Website</h1>
                                 </div>
                             </div>
-                            <a href="contact.html" class="button button-1">
-                                <div class="button-inner">
-                                    <div class="button-content">
-                                        <h4>Get Started</h4>
-                                    </div>
-                                </div>
-                            </a>
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1 order-lg-2 order-1">
                         <div class="video-section-video">
                             <figure>
-                                <img class="drop-shadow-1" src="assets/images/video-img.jpg" alt="image">
+                                <img class="drop-shadow-1" src="assets/images/video-img.png" alt="image">
 
                                 <div class="play">
                                     <a href="https://www.youtube.com/watch?v=WIl5F5rM5wQ" class="glightbox">
@@ -454,914 +439,7 @@
     video section - end
     -->
 
-    <!--
-    feature section - start
-    -->
-    <div class="feature-section feature-section-0 feature-section-spacing-1">
-        <div class="feature-section-wrapper">
-            <div class="container">
-                <div class="row gx-5">
-                    <div class="col-lg-7 offset-lg-0 order-lg-1 col-md-8 offset-md-2 col-10 offset-1 order-2">
-                        <div class="feature-section-content">
-                            <div class="section-heading">
-                                <div class="sub-heading c-blue upper ls-1">
-                                    <i class="las la-cog"></i>
-                                    <h5>app features</h5>
-                                </div>
-                                <div class="main-heading c-dark">
-                                    <h1>Rich and full of features.</h1>
-                                </div>
-                            </div>
-                            <p class="c-grey">Seed doesn't he dry, male creepeth god them their in which by firmament to days two deep yielding darkness bring likeness.</p>
-                            <div class="icon-text-group">
-                                <div class="icon-text">
-                                    <i class="las la-server"></i>
-                                    <h4 class="c-dark">Unlimited Storage</h4>
-                                    <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle.</p>
-                                </div>
-                                <div class="icon-text">
-                                    <i class="las la-user-shield"></i>
-                                    <h4 class="c-dark">Data Protection</h4>
-                                    <p class="c-grey">Heat multiply is second divided fowl there isn't man cattle.</p>
-                                </div>
-                            </div>
-                            <a href="contact.html" class="button button-2">
-                                <div class="button-inner">
-                                    <div class="button-content">
-                                        <h4>Get Started</h4>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 offset-lg-0 order-lg-2 col-10 offset-1 order-1">
-                        <div class="feature-section-image">
-                            <img src="assets/images/alat_braitech.png" class="image" alt="image">
-                            <div class="background-pattern background-pattern-radius">
-                                <div class="background-pattern-img background-loop" style="background-image: url(assets/images/patterns/pattern.jpg);"></div>
-                                <div class="background-pattern-gradient"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    feature section - end
-    -->
 
-
-
-    <!--
-    pricing section - start
-    -->
-    <div class="pricing-section">
-        <div class="pricing-section-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="section-heading center c-white">
-                            <div class="sub-heading upper ls-1">
-                                <i class="las la-tags"></i>
-                                <h5>Our app rates</h5>
-                            </div>
-                            <div class="main-heading">
-                                <h1>Pricing plans for you.</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="pricing">
-                    <div class="row">
-                        <div class="col">
-                            <div class="switch">
-                                <div class="form-check form-switch">
-                                    <label
-                                    class="form-check-label"
-                                    for="price-switch">Monthly</label>
-                                    <input
-                                    class="form-check-input"
-                                    type="checkbox"
-                                    id="price-switch"
-                                    checked="checked">
-                                    <label
-                                    class="form-check-label"
-                                    for="price-switch">Annual</label>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <div class="pricing-slider">
-                                <div class="swiper-container">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <div class="pricing-single basic">
-                                                <h5 class="plan">Basic</h5>
-                                                <div class="price price-month">
-                                                    <div class="month">
-                                                        $<span class="number">10.00</span><sup>/mo</sup>
-                                                    </div>
-                                                    <div class="year">
-                                                        $<span class="number">120.00</span><sup>/yr</sup>
-                                                    </div>
-                                                </div>
-                                                <a href="contact.html" class="button button-basic">
-                                                    <div class="button-inner">
-                                                        <div class="button-content">
-                                                            <h4>Get Started</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                                <ul>
-                                                    <li class="available">Chat with doctors</li>
-                                                    <li class="available">Instant notifications</li>
-                                                    <li class="available">Subscription delivery</li>
-                                                    <li>Nutritional plans</li>
-                                                    <li>Customizeable menus</li>
-                                                    <li>Unlimited storage</li>
-                                                    <li>Weekly reports</li>
-                                                    <li>Fitness guides</li>
-                                                </ul>
-                                                <h6>No commitments, cancel anytime.</h6>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="pricing-single standard">
-                                                <h5 class="plan">Standard</h5>
-                                                <div class="price price-month">
-                                                    <div class="month">
-                                                        $<span class="number">15.00</span><sup>/mo</sup>
-                                                    </div>
-                                                    <div class="year">
-                                                        $<span class="number">180.00</span><sup>/yr</sup>
-                                                    </div>
-                                                </div>
-                                                <a href="contact.html" class="button button-standard">
-                                                    <div class="button-inner">
-                                                        <div class="button-content">
-                                                            <h4>Get Started</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                                <ul>
-                                                    <li class="available">Chat with doctors</li>
-                                                    <li class="available">Instant notifications</li>
-                                                    <li class="available">Subscription delivery</li>
-                                                    <li class="available">Nutritional plans</li>
-                                                    <li class="available">Customizeable menus</li>
-                                                    <li>Unlimited storage</li>
-                                                    <li>Weekly reports</li>
-                                                    <li>Fitness guides</li>
-                                                </ul>
-                                                <h6>No commitments, cancel anytime.</h6>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="pricing-single premium">
-                                                <h5 class="plan">Premium</h5>
-                                                <div class="price price-month">
-                                                    <div class="month">
-                                                        $<span class="number">20.00</span><sup>/mo</sup>
-                                                    </div>
-                                                    <div class="year">
-                                                        $<span class="number">240.00</span><sup>/yr</sup>
-                                                    </div>
-                                                </div>
-                                                <a href="contact.html" class="button button-premium">
-                                                    <div class="button-inner">
-                                                        <div class="button-content">
-                                                            <h4>Get Started</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                                <ul>
-                                                    <li class="available">Chat with doctors</li>
-                                                    <li class="available">Instant notifications</li>
-                                                    <li class="available">Subscription delivery</li>
-                                                    <li class="available">Nutritional plans</li>
-                                                    <li class="available">Customizeable menus</li>
-                                                    <li class="available">Unlimited storage</li>
-                                                    <li class="available">Weekly reports</li>
-                                                    <li class="available">Fitness guides</li>
-                                                </ul>
-                                                <h6>No commitments, cancel anytime.</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="background-pattern background-pattern-1">
-                <div class="background-pattern-img background-loop" style="background-image: url(assets/images/patterns/pattern.jpg);"></div>
-                <div class="background-pattern-gradient"></div>
-                <div class="background-pattern-bottom">
-                    <div class="image" style="background-image: url(assets/images/patterns/pattern-1.jpg)"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    pricing section - end
-    -->
-
-    <!--
-    testimonial section - start
-    -->
-    <div class="testimonial-section">
-        <div class="testimonial-section-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="section-heading center width-55">
-                            <div class="sub-heading c-blue upper ls-1">
-                                <i class="las la-comments"></i>
-                                <h5>feedbacks</h5>
-                            </div>
-                            <div class="main-heading c-dark">
-                                <h1>What people are talking about.</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="testimonial-slider">
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-slide">
-                                        <div class="image">
-                                            <div class="image-wrapper">
-                                                <div class="image-inner">
-                                                    <img src="assets/images/testimonial-slide-img-2.png" alt="testimony-image">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="content">
-                                            <p>“This app is wonderful dry male ceepeth good them their in which to days two deep has yielding throw darkness bring likeness fifth by darkness make face saw has under heaven forth saw there without lights app stars for him replenish fowl creature.”</p>
-                                            <h5>— Jack William</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-slide">
-                                        <div class="image">
-                                            <div class="image-wrapper">
-                                                <div class="image-inner">
-                                                    <img src="assets/images/testimonial-slide-img-1.png" alt="testimony-image">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="content">
-                                            <p>“This app is wonderful dry male ceepeth good them their in which to days two deep has yielding throw darkness bring likeness fifth by darkness make face saw has under heaven forth saw there without lights app stars for him replenish fowl creature.”</p>
-                                            <h5>— Jack William</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-slide">
-                                        <div class="image">
-                                            <div class="image-wrapper">
-                                                <div class="image-inner">
-                                                    <img src="assets/images/testimonial-slide-img-3.png" alt="testimony-image">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="content">
-                                            <p>“This app is wonderful dry male ceepeth good them their in which to days two deep has yielding throw darkness bring likeness fifth by darkness make face saw has under heaven forth saw there without lights app stars for him replenish fowl creature.”</p>
-                                            <h5>— Jack William</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    testimonial section - end
-    -->
-
-    <!--
-    faq section - start
-    -->
-    <div class="faq-section">
-        <div class="faq-section-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xxl-10 offset-xxl-1 col-lg-12 offset-lg-0 col-10 offset-1">
-                        <div class="section-heading center width-64">
-                            <div class="sub-heading c-blue upper ls-1">
-                                <i class="las la-file-alt"></i>
-                                <h5>discover</h5>
-                            </div>
-                            <div class="main-heading c-dark">
-                                <h1>Some frequently asked questions</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row d-flex justify-content-center">
-                    <div class="col-lg-9 col-md-8 col-10">
-                        <div class="faq-wrapper">
-                            <div class="faq" id="faq-accordion">
-                                <!--
-                                accordion item - start
-                                -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header" id="faq-1">
-                                      <button
-                                      class="accordion-button collapsed"
-                                      type="button"
-                                      data-bs-toggle="collapse"
-                                      data-bs-target="#faq-collapse-1"
-                                      aria-expanded="true"
-                                      aria-controls="faq-collapse-1">
-                                        <span>Can I try Orions before I buy?</span>
-                                      </button>
-                                    </div>
-                                    <div
-                                    id="faq-collapse-1"
-                                    class="accordion-collapse collapse"
-                                    aria-labelledby="faq-1"
-                                    data-bs-parent="#faq-accordion">
-                                      <div class="accordion-body">
-                                        <p>Prepare questions that the patient should answer when registering for an online
-                                            there consultation. We will send them to him before the visit in the form of survey
-                                            to which he will also be able to attach his research results.</p>
-                                      </div>
-                                    </div>
-                                </div>
-                                <!--
-                                accordion item - end
-                                -->
-                                <!--
-                                accordion item - start
-                                -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header" id="faq-2">
-                                      <button
-                                      class="accordion-button"
-                                      type="button"
-                                      data-bs-toggle="collapse"
-                                      data-bs-target="#faq-collapse-2"
-                                      aria-expanded="true"
-                                      aria-controls="faq-collapse-2">
-                                        <span>What's your cancellation policy?</span>
-                                      </button>
-                                    </div>
-                                    <div
-                                    id="faq-collapse-2"
-                                    class="accordion-collapse collapse show"
-                                    aria-labelledby="faq-2"
-                                    data-bs-parent="#faq-accordion">
-                                      <div class="accordion-body">
-                                        <p>Prepare questions that the patient should answer when registering for an online
-                                            there consultation. We will send them to him before the visit in the form of survey
-                                            to which he will also be able to attach his research results.</p>
-                                      </div>
-                                    </div>
-                                </div>
-                                <!--
-                                accordion item - end
-                                -->
-                                <!--
-                                accordion item - start
-                                -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header" id="faq-3">
-                                      <button
-                                      class="accordion-button collapsed"
-                                      type="button"
-                                      data-bs-toggle="collapse"
-                                      data-bs-target="#faq-collapse-3"
-                                      aria-expanded="true"
-                                      aria-controls="faq-collapse-3">
-                                       <span>Do I need my own Apple Developer account?</span>
-                                      </button>
-                                    </div>
-                                    <div
-                                    id="faq-collapse-3"
-                                    class="accordion-collapse collapse"
-                                    aria-labelledby="faq-3"
-                                    data-bs-parent="#faq-accordion">
-                                      <div class="accordion-body">
-                                        <p>Prepare questions that the patient should answer when registering for an online
-                                            there consultation. We will send them to him before the visit in the form of survey
-                                            to which he will also be able to attach his research results.</p>
-                                      </div>
-                                    </div>
-                                </div>
-                                <!--
-                                accordion item - end
-                                -->
-                                <!--
-                                accordion item - start
-                                -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header" id="faq-4">
-                                      <button
-                                      class="accordion-button collapsed"
-                                      type="button"
-                                      data-bs-toggle="collapse"
-                                      data-bs-target="#faq-collapse-4"
-                                      aria-expanded="true"
-                                      aria-controls="faq-collapse-4">
-                                        <span>Is there Orions branding in my app?</span>
-                                      </button>
-                                    </div>
-                                    <div
-                                    id="faq-collapse-4"
-                                    class="accordion-collapse collapse"
-                                    aria-labelledby="faq-4"
-                                    data-bs-parent="#faq-accordion">
-                                      <div class="accordion-body">
-                                        <p>Prepare questions that the patient should answer when registering for an online
-                                            there consultation. We will send them to him before the visit in the form of survey
-                                            to which he will also be able to attach his research results.</p>
-                                      </div>
-                                    </div>
-                                </div>
-                                <!--
-                                accordion item - end
-                                -->
-                                <!--
-                                accordion item - start
-                                -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header" id="faq-5">
-                                      <button
-                                      class="accordion-button collapsed"
-                                      type="button"
-                                      data-bs-toggle="collapse"
-                                      data-bs-target="#faq-collapse-5"
-                                      aria-expanded="true"
-                                      aria-controls="faq-collapse-5">
-                                        <span>Can I preview before I publish?</span>
-                                      </button>
-                                    </div>
-                                    <div
-                                    id="faq-collapse-5"
-                                    class="accordion-collapse collapse"
-                                    aria-labelledby="faq-5"
-                                    data-bs-parent="#faq-accordion">
-                                      <div class="accordion-body">
-                                        <p>Prepare questions that the patient should answer when registering for an online
-                                            there consultation. We will send them to him before the visit in the form of survey
-                                            to which he will also be able to attach his research results.</p>
-                                      </div>
-                                    </div>
-                                </div>
-                                <!--
-                                accordion item - end
-                                -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    faq section - end
-    -->
-
-    <!--
-    screen section - start
-    -->
-    <div class="screen-section">
-        <div class="screen-section-wrapper">
-            <!--
-            screen section header - start
-            -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 offset-lg-0 col-10 offset-1">
-                        <div class="screen-section-header">
-                            <div class="section-heading center-responsive">
-                                <div class="sub-heading c-blue upper ls-1">
-                                    <i class="las la-tablet"></i>
-                                    <h5>orions universal app</h5>
-                                </div>
-                                <div class="main-heading c-dark">
-                                    <h1>Have a look at what’s inside the app.</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 offset-lg-0 col-10 offset-1">
-                        <div class="screen-slider-navigation slider-navigation">
-                            <div class="screen-slider-navigation-prev">
-                                <i class="las la-long-arrow-alt-left"></i>
-                            </div>
-                            <div class="screen-slider-navigation-next">
-                                <i class="las la-long-arrow-alt-right"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--
-            screen section header - end
-            -->
-            <!--
-            screen section slider - start
-            -->
-            <div class="screen-slider">
-                <div class="swiper-container">
-                    <div class="swiper-wrapper">
-                        <!--
-                        screen slide - start
-                        -->
-                        <div class="swiper-slide">
-                            <div class="screen-slide">
-                                <figure>
-                                    <img src="assets/images/screens/screen-slider-img-1.png" alt="app-screen">
-                                </figure>
-                            </div>
-                        </div>
-                        <!--
-                        screen slide - end
-                        -->
-                        <!--
-                        screen slide - start
-                        -->
-                        <div class="swiper-slide">
-                            <div class="screen-slide">
-                                <figure>
-                                    <img src="assets/images/screens/screen-slider-img-2.png" alt="app-screen">
-                                </figure>
-                            </div>
-                        </div>
-                        <!--
-                        screen slide - end
-                        -->
-                        <!--
-                        screen slide - start
-                        -->
-                        <div class="swiper-slide">
-                            <div class="screen-slide">
-                                <figure>
-                                    <img src="assets/images/screens/screen-slider-img-3.png" alt="app-screen">
-                                </figure>
-                            </div>
-                        </div>
-                        <!--
-                        screen slide - end
-                        -->
-                        <!--
-                        screen slide - start
-                        -->
-                        <div class="swiper-slide">
-                            <div class="screen-slide">
-                                <figure>
-                                    <img src="assets/images/screens/screen-slider-img-4.png" alt="app-screen">
-                                </figure>
-                            </div>
-                        </div>
-                        <!--
-                        screen slide - end
-                        -->
-                    </div>
-                </div>
-            </div>
-            <!--
-            screen section slider - end
-            -->
-            <!--
-            screen section bottom - start
-            -->
-            <div class="screen-section-bottom">
-                <div class="screen-section-bottom-wrapper">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 offset-lg-0 col-10 offset-1">
-                                <h1 class="c-white">Download from both Android and iOS</h1>
-                                <h4 class="c-white">
-                                    <i class="fas fa-smile"></i>
-                                    3 Million users and counting!
-                                </h4>
-                            </div>
-                            <div class="col-lg-4 offset-lg-0 col-10 offset-1">
-                                <div class="download-button-group download-button-1-group">
-                                    <a href="#" class="download-button download-button-1 download-button-google">
-                                        <div class="download-button-inner">
-                                            <div class="download-button-icon c-purple">
-                                                <i class="fab fa-google-play"></i>
-                                            </div>
-                                            <div class="download-button-content">
-                                                <h5 class="c-grey upper ls-1">get it on</h5>
-                                                <h3 class="c-dark ls-2">Google Play</h3>
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="download-button download-button-1 download-button-apple">
-                                        <div class="download-button-inner">
-                                            <div class="download-button-icon c-pink">
-                                                <i class="fab fa-apple"></i>
-                                            </div>
-                                            <div class="download-button-content">
-                                                <h5 class="c-grey upper ls-1">get it on</h5>
-                                                <h3 class="c-dark ls-2">Apple Store</h3>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--
-            screen section bottom - end
-            -->
-        </div>
-        <div class="background-pattern background-pattern-2">
-            <div class="background-pattern-img background-loop" style="background-image: url(assets/images/patterns/pattern.jpg);"></div>
-            <div class="background-pattern-gradient"></div>
-            <div class="background-pattern-bottom">
-                <div class="image" style="background-image: url(assets/images/patterns/pattern-2.jpg);"></div>
-            </div>
-        </div>
-    </div>
-    <!--
-    screen section - end
-    -->
-
-    <!--
-    blog section - start
-    -->
-    <div class="blog-section">
-        <div class="blog-section-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 offset-lg-0 col-10 offset-1">
-                        <div class="section-heading center width-55">
-                            <div class="sub-heading c-blue upper ls-1">
-                                <i class="las la-bullhorn"></i>
-                                <h5>recent news</h5>
-                            </div>
-                            <div class="main-heading c-dark">
-                                <h1>Read latest news from our blog.</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row gx-5">
-                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="blog-single blog-single-1">
-                            <div class="blog-single-wrapper">
-                               <div class="blog-single-content">
-                                    <a href="blog-detail-1.html" class="figure">
-                                        <img src="assets/images/blog/blog-thumbnail-1.jpg" alt="blog-image">
-                                    </a>
-                                    <a href="blog-detail-1.html">
-                                        <h3>New features coming in 2020 to our app.</h3>
-                                    </a>
-                                    <div class="blog-single-details">
-                                        <div class="comments">
-                                            <i class="las la-comment-alt"></i>
-                                            12
-                                        </div>
-                                        <div class="separator"></div>
-                                        <div class="date">
-                                            <i class="las la-calendar"></i>
-                                            Dec 10, 2020
-                                        </div>
-                                    </div>
-                                    <p>Behold creature him whose own doesn't god seasons winged two won't bearing herein fowl fruitful they went there beginning ... </p>
-                               </div>
-                               <a href="blog-detail-1.html" class="circle">
-                                    <i class="las la-plus"></i>
-                                    <i class="las la-angle-right hover"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="blog-single blog-single-1">
-                            <div class="blog-single-wrapper">
-                                <div class="blog-single-content">
-                                    <a href="blog-detail-1.html" class="figure">
-                                        <img src="assets/images/blog/blog-thumbnail-2.jpg" alt="blog-image">
-                                    </a>
-                                    <a href="blog-detail-1.html">
-                                        <h3>Raving reviews about our latest algorithms.</h3>
-                                    </a>
-                                    <div class="blog-single-details">
-                                        <div class="comments">
-                                            <i class="las la-comment-alt"></i>
-                                            12
-                                        </div>
-                                        <div class="separator"></div>
-                                        <div class="date">
-                                            <i class="las la-calendar"></i>
-                                            Dec 10, 2020
-                                        </div>
-                                    </div>
-                                    <p>Behold creature him whose own doesn't god seasons winged two won't bearing herein fowl fruitful they went there beginning ... </p>
-                                </div>
-                                <a href="blog-detail-1.html" class="circle">
-                                    <i class="las la-plus"></i>
-                                    <i class="las la-angle-right hover"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="blog-single blog-single-1">
-                            <div class="blog-single-wrapper">
-                                <div class="blog-single-content">
-                                    <a href="blog-detail-1.html" class="figure">
-                                        <img src="assets/images/blog/blog-thumbnail-3.jpg" alt="blog-image">
-                                    </a>
-                                    <a href="blog-detail-1.html">
-                                        <h3>New features coming in 2020 to our app.</h3>
-                                    </a>
-                                    <div class="blog-single-details">
-                                        <div class="comments">
-                                            <i class="las la-comment-alt"></i>
-                                            12
-                                        </div>
-                                        <div class="separator"></div>
-                                        <div class="date">
-                                            <i class="las la-calendar"></i>
-                                            Dec 10, 2020
-                                        </div>
-                                    </div>
-                                    <p>Behold creature him whose own doesn't god seasons winged two won't bearing herein fowl fruitful they went there beginning ... </p>
-                                </div>
-                                <a href="blog-detail-1.html" class="circle">
-                                    <i class="las la-plus"></i>
-                                    <i class="las la-angle-right hover"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    blog section - end
-    -->
-
-    <!--
-    cta section - start
-    -->
-    <div class="cta-section">
-        <div class="cta-section-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <div class="section-heading center width-71">
-                            <div class="sub-heading c-blue upper ls-1">
-                                <i class="las la-cloud-download-alt"></i>
-                                <h5>Download Orions</h5>
-                            </div>
-                            <div class="main-heading c-dark">
-                                <h1>Join Orions and get 20% off on your selected plan.</h1>
-                            </div>
-                        </div>
-                        <div class="download-button-group">
-                            <a href="#" class="download-button download-button-google">
-                                <div class="download-button-inner">
-                                    <div class="download-button-icon c-purple">
-                                        <i class="fab fa-google-play"></i>
-                                    </div>
-                                    <div class="download-button-content">
-                                        <h5 class="c-grey upper ls-1">get it on</h5>
-                                        <h3 class="c-dark ls-2">Google Play</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="#" class="download-button download-button-apple">
-                                <div class="download-button-inner">
-                                    <div class="download-button-icon c-pink">
-                                        <i class="fab fa-apple"></i>
-                                    </div>
-                                    <div class="download-button-content">
-                                        <h5 class="c-grey upper ls-1">get it on</h5>
-                                        <h3 class="c-dark ls-2">Apple Store</h3>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--
-    cta section - end
-    -->
-
-    <!--
-    contact form section - start
-    -->
-    <div class="contact-form-section contact-form-section-1">
-        <div class="contact-form-section-wrapper">
-            <div class="container">
-                <div class="row gx-5 contact-form-section-row">
-                    <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <!--
-                        contact form - start
-                        -->
-                        <div class="contact-form drop-shadow-2">
-                            <div class="contact-form-wrapper">
-                                <div class="section-heading section-heading-2 center">
-                                    <div class="sub-heading c-blue upper ls-1">
-                                        <i class="las la-envelope"></i>
-                                        <h5>contact</h5>
-                                    </div>
-                                    <div class="main-heading c-dark">
-                                        <h1>Write message</h1>
-                                    </div>
-                                </div>
-                                <form>
-                                    <div class="form-floating">
-                                        <input class="input form-control" id="name-field" type="text" placeholder="Full name">
-                                        <label for="name-field">Full name</label>
-                                    </div>
-                                    <div class="form-floating">
-                                        <input class="input form-control" id="email-field" type="text" placeholder="Email address">
-                                        <label for="email-field">Email address</label>
-                                    </div>
-                                    <div class="form-floating">
-                                        <input class="input form-control" id="message-field" type="text" placeholder="Message">
-                                        <label for="message-field">Message</label>
-                                    </div>
-                                    <button type="submit" class="button button-3">
-                                        <span class="button-inner">
-                                            <span class="button-content">
-                                                <span class="text">Submit Reply</span>
-                                            </span>
-                                        </span>
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-                        <!--
-                        contact form - end
-                        -->
-                    </div>
-                    <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
-                        <!--
-                        newsletter form - start
-                        -->
-                        <div class="contact-form contact-form-1 drop-shadow-2">
-                            <div class="contact-form-wrapper">
-                                <div class="section-heading section-heading-2 center">
-                                    <div class="sub-heading c-blue upper ls-1">
-                                        <i class="las la-envelope-open"></i>
-                                        <h5>subscribe</h5>
-                                    </div>
-                                    <div class="main-heading c-dark">
-                                        <h1>Our newsletter</h1>
-                                    </div>
-                                </div>
-                                <div class="contact-form-icon">
-                                    <i class="las la-envelope-open-text"></i>
-                                </div>
-                                <form>
-                                    <div class="form-floating">
-                                        <input class="input form-control" id="email-field-1" type="text" placeholder="Email address">
-                                        <label for="email-field-1">Email address</label>
-                                    </div>
-                                    <button type="submit" class="button button-2">
-                                        <span class="button-inner">
-                                            <span class="button-content">
-                                                <span class="text">Subscribe</span>
-                                            </span>
-                                        </span>
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-                        <!--
-                        newsletter form - end
-                        -->
-                    </div>
-                </div>
-            </div>
-            <div class="contact-form-section-pattern">
-                <div class="left" style="background-image: url('assets/images/Artwork-left.png');"></div>
-                <div class="right" style="background-image: url('assets/images/Artwork-right.png');"></div>
-            </div>
-        </div>
-    </div>
-    <!--
-    contact form section - end
-    -->
 
     <!--
     footer - start
@@ -1374,15 +452,15 @@
                         <div class="footer-row">
                             <div class="footer-detail">
                                 <a href="#">
-                                    <img src="assets/images/logo.png" alt="footer-logo">
+                                    <img src="assets/images/logo_braitech.png" alt="footer-logo">
                                 </a>
-                                <p class="c-grey-1">Orions is a universal app template that was designed to cater to most of the modern app landing page designs requirements.</p>
+                                <p class="c-grey-1">BraiTech yaitu sebuah teknologi yang bertujuan membantu tunanetra untuk mengetik sebuah teks dengan lebih mudah dan efisien.</p>
                                 <div class="links">
                                     <a class="link-underline" href="mailto:hello@orions.com">
-                                        <span>hello@orions.com</span>
+                                        <span>braitech20@gmail.com</span>
                                     </a>
                                     <a class="link-underline" href="tel:+1-234-567-890">
-                                        <span>+1 234 567 890</span>
+                                        <span>+62 8952 1441 520</span>
                                     </a>
                                 </div>
                             </div>
@@ -1420,57 +498,22 @@
                                 <ul>
                                     <li>
                                         <a href="about.html" class="link-underline">
-                                            <span>About</span>
+                                            <span>Home</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="about.html" class="link-underline">
-                                            <span>Our Team</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="features-1.html" class="link-underline">
                                             <span>Features</span>
                                         </a>
                                     </li>
                                     <li>
+                                        <a href="features-1.html" class="link-underline">
+                                            <span>Tutorial</span>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href="blog-1.html" class="link-underline">
-                                            <span>Blog</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="about.html" class="link-underline">
-                                            <span>How It Works</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html" class="link-underline">
                                             <span>Contact</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="footer-list">
-                                <h6>Explore</h6>
-                                <ul>
-                                    <li>
-                                        <a href="pricing.html" class="link-underline">
-                                            <span>Pricing</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="privacy-policy.html" class="link-underline">
-                                            <span>Terms of Services</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="privacy-policy.html" class="link-underline">
-                                            <span>Privacy Policy</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html" class="link-underline">
-                                            <span>Help Center</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -1481,7 +524,7 @@
                 <div class="row">
                     <div class="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
                         <div class="footer-copyright c-grey-1">
-                            <h6>&copy; GFXPARTNER</h6>
+                            <br><h6>&copy; braitech2022</h6>
                         </div>
                     </div>
                 </div>
