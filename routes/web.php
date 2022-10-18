@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\FirebaseController;
+use App\Http\Controllers\TTSController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +18,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/teks', function () {
+    return view('teks');
+});
+
+Route::resource('/teks', FirebaseController::class);
+Route::get('/employee/pdf', [FirebaseController::class, 'createPDF']);
+Route::post('/tts', [TTSController::class, 'index']);
+

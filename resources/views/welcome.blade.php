@@ -13,13 +13,7 @@
     -->
     <title>Braitech</title>
 
-    <!--
-    favicon
-    -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicon/site.webmanifest">
+    
 
     <!--
     stylesheets
@@ -169,7 +163,7 @@
                             <b><h1 class="c-dark">BRAITECH</h1></b>
                             <p class="large c-grey">BraiTech merupakan sebuah teknologi yang bertujuan untuk membantu tunanetra untuk mengetik sebuah teks dengan lebih mudah dan efisien.</p>
                             <div class="download-button-group">
-                                <a href="#" class="download-button download-button-google">
+                                <a href="/teks" class="download-button download-button-google">
                                     <div class="download-button-inner">
                                         <div class="download-button-icon c-purple">
                                             <i class="fa fa-play"></i>
